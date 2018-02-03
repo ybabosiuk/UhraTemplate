@@ -1,0 +1,8 @@
+C:\TempUrho\TempUrho\TempUrho\TempUrho\bin\Debug\TempUrho.dll
+C:\TempUrho\TempUrho\TempUrho\TempUrho\bin\Debug\TempUrho.pdb
+C:\TempUrho\TempUrho\TempUrho\TempUrho\bin\Debug\Urho.dll
+C:\TempUrho\TempUrho\TempUrho\TempUrho\bin\Debug\Urho.xml
+C:\TempUrho\TempUrho\TempUrho\TempUrho\obj\Debug\TempUrho.csprojResolveAssemblyReference.cache
+C:\TempUrho\TempUrho\TempUrho\TempUrho\obj\Debug\TempUrho.csproj.CoreCompileInputs.cache
+C:\TempUrho\TempUrho\TempUrho\TempUrho\obj\Debug\TempUrho.dll
+C:\TempUrho\TempUrho\TempUrho\TempUrho\obj\Debug\TempUrho.pdb
